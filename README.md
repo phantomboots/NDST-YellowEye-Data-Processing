@@ -1,0 +1,1 @@
+This script is designed to read in .RAW formatted data file, collected by the Navigation software Hypack. These .RAW files are tab delimeted, with a number of file header rows and one row for each device sensor reading. 
