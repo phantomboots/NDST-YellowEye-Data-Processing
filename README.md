@@ -1,3 +1,5 @@
+**Hypack RAW Data Parser_YellowEye**
+
 This script is designed to read in .RAW formatted data file, collected by the Navigation software Hypack. These .RAW files are tab delimeted, with a number of file header rows and one row for each device sensor reading. 
 
 The script extracts all collected data readings from Hypack .RAW files and filters them by device code. The Hypack device codes of interest are three letter identifiers, and include the following:
